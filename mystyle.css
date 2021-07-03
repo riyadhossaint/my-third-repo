@@ -1,0 +1,24 @@
+h3{
+    text-align: center;
+    color: black;
+    font-size: 50px;
+    
+}
+.main{
+    text-align: right;
+    margin-bottom: 15px;
+    
+}
+
+.anchor{
+    text-decoration: none;
+    margin-right: 10px;
+    
+
+}
+#btn{
+   border-radius: 2;
+}
+body{
+    background-color: forestgreen;
+}
